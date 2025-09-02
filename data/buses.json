@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Green Line",
+    "start": "08:00",
+    "end": "12:00",
+    "fare": 500
+  },
+  {
+    "id": 2,
+    "name": "Shohag Elite",
+    "start": "09:30",
+    "end": "13:30",
+    "fare": 450
+  }
+]
